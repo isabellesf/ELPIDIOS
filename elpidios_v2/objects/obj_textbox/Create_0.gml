@@ -5,3 +5,4 @@ texto = "testando ablasdkafkdfja fhasdfjhaslfajdflha sfhaldfhafldalfhLKHDFAKHF A
 
 boxWidth = sprite_get_width(sprt_box);
 stringHeight = string_height(texto); 
+
