@@ -1,2 +1,0 @@
-myTextbox = noone; 
-
