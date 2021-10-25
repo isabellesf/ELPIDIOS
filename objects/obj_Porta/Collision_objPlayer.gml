@@ -5,3 +5,4 @@ if (global.verificar_porta == 3)
 	instance_destroy();
 	room_goto(Pergunta_1);
 }
+
